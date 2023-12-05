@@ -1,6 +1,6 @@
 Hey there! Feel free to peruse.
 
-🔥 I'm currently working on a crowd sourced education web app </br>
+🔥 I'm currently working on a crowd sourced education web app called Lyceum</br>
 💡 I am curently enrolled in a Full stack engineer boocamp by TrippleTen and have taken the core softwareengineering courses from BYUI. </br>
 
 <h3 align="left">Languages and Tools:</h3>
