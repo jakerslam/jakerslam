@@ -1,7 +1,7 @@
 Hey there! Feel free to peruse.
 
 🔥 I'm currently working on a crowd sourced education web app called Lyceum</br>
-💡 I am curently enrolled in a Full stack engineer bootcamp by TrippleTen and have taken the core softwareengineering courses from BYUI. </br>
+💡 I am curently enrolled in a Full stack engineer bootcamp by TrippleTen and have taken the core softwaree ngineering courses from BYUI. </br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
