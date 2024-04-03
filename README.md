@@ -1,6 +1,6 @@
 Hey there! Feel free to peruse.
 
-🔥 I'm currently working on a crowd sourced education web app called Lyceum</br>
+🔥 I'm currently learning the npn framework and webscraping with python</br>
 💡 I am curently enrolled in a Full stack engineer bootcamp by TrippleTen and have taken the core softwaree engineering courses from BYUI. </br>
 
 <h3 align="left">Languages and Tools:</h3>
