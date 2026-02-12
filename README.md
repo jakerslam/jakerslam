@@ -1,7 +1,6 @@
 Hey there! Feel free to peruse.
 
-🔥 I'm currently learning the npn framework and webscraping with python</br>
-💡 I am curently enrolled in a Full stack engineer bootcamp by TrippleTen and have taken the core softwaree engineering courses from BYUI. </br>
+🔥 I'm currently working on an affiliate engine that can be run by my AI agent
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
