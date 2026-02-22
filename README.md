@@ -1,6 +1,6 @@
 Hey there! Feel free to peruse.
 
-🔥 I'm currently working on an affiliate engine that can be run by my AI agent
+🔥 I'm currently building the first complete, secure, adaptable AI operating system in typesecript
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
