@@ -2,7 +2,7 @@
 
 **Building secure, adaptable AI systems.**
 
-I'm an engineer and systems architect working on [Protheus](https://github.com/protheuslabs/protheus) — the first complete AI operating system with provable safety, deterministic execution, and human-aligned governance.
+I'm an engineer and systems architect working on [InfRing](https://github.com/protheuslabs/infring) — the first complete AI operating system with provable safety, deterministic execution, and human-aligned governance.
 
 ## Current Focus
 
