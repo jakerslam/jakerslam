@@ -24,8 +24,12 @@ I'm an engineer and systems architect working on [Protheus](https://github.com/p
 
 ## Stats
 
-<p>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jakerslam&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakerslam&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jakerslam&layout=compact&theme=radical" />
 </p>
 
 ---
