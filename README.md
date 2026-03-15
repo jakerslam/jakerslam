@@ -4,7 +4,7 @@
 
 I'm an engineer and systems architect working on [InfRing](https://github.com/protheuslabs/infring) — the first complete AI operating system with provable safety, deterministic execution, and human-aligned governance.
 
-[<image-card alt="ORCID" src="https://img.shields.io/badge/ORCID-0000-000x-xxxx-xxxx-green.svg" ></image-card>](https://orcid.org/0000-000x-xxxx-xxxx)
+[<image-card alt="ORCID" src="https://img.shields.io/badge/ORCID-0009-0002-0617-7360-green.svg" ></image-card>](https://orcid.org/0009-0002-0617-7360)
 
 ## Current Focus
 
